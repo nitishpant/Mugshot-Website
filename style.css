@@ -1,0 +1,74 @@
+body {
+  background-color: #FaF1DE;
+  ;
+  
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.topnav {
+  overflow: hidden;
+  background-color: ;
+}
+
+.topnav a {
+  float: left;
+  color: #3D405B;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: 838596;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #3D405B;
+  color: white;
+}
+.rightnav a {
+  float: Right;
+  color: #3D405B;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.rightnav a:hover {
+  background-color: #c4e2ed;
+  color: black;
+}
+
+.rightnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.ani {
+  width: 80px;
+  height: 50px;
+  background: #470FF4;
+  -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+  transition: width 1s;
+}
+
+.ani:hover {
+  width: 1520px;
+  background: #4056F4;
+}
+.ab{
+  position: absolute;
+  top:125px; 
+  left:20px; 
+  width:200px;
+  height:5px;
+  font-size: 30px;
+  font-family: "Comic Sans MS";
+  color:#F4F1DE;
+}
