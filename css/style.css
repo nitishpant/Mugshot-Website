@@ -6,15 +6,33 @@
   color:#ffffff;
   font-weight: normal;
   font-size:80px; 
-  
+  left: 30px;
 }
-.name{
-  position: relative
-  left: 300px;
-  top:880px;
+.bebav
+{
+  font-family: 'Righteous', cursive;
+  color:#ffffff;
+  font-weight: normal;
+  font-size:120px; 
+  left: 800px;
+  top:100px;
+  position: absolute;
 }
+.bebap
+{
+  font-family: 'Righteous', cursive;
+  color:#ffffff;
+  font-weight: normal;
+  font-size:20px; 
+  left: 820px;
+  top:300px;
+  position: absolute;
+}
+
 body {
-  background-color: #1a1a1d;
+  
+  
+  background-color: #1a1a1d; 
   
 }
 h1 {
@@ -55,7 +73,7 @@ p {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 20px;
-  box-shadow:  -1px 0 0 rgba(151, 149, 149, 0.2);
+  box-shadow:  -3px 0px 0 rgba(180, 180, 180, 0.2);
 }
 
 .rightnav a:hover {
@@ -94,7 +112,6 @@ hr{
   top: 35px;
   box-shadow:  14px 18px 0 rgba(151, 149, 149, 0.2);
   transition: 0.3s;
-  width: 50%;
   background-color: #b1b1b3;
   border-radius: 5px 60px 5px 60px;
   margin: auto;
@@ -158,4 +175,8 @@ p.pad {
   font-size:18px; 
   text-decoration: none;
   
+}
+.vidim{
+  position: relative;
+  width:30%;
 }
